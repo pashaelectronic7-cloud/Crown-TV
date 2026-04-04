@@ -287,8 +287,6 @@ https://live20.bozztv.com/giatv/giatv-tvradiof/tvradiof/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-1019fmradiokrd/1019fmradiokrd/chunks.m3u8
 #EXTINF:0 CUID="8620" tvg-name="DUHOK-TV" tvg-logo="https://i.postimg.cc/vYtrJ7t3/duhok.png" group-title="(B)  KURDISH ",DUHOK-TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
-#EXTINF:0 CUID="8621" tvg-name="اشتراك✅  کڕینی کۆد✅  IPTV VIP" tvg-logo="https://i.postimg.cc/x1Ncddt9/CC2958-B1-8-A37-481-C-9-B14-2-FE57-CAACEC2.png" group-title="(B)  KURDISH ",اشتراك✅  کڕینی کۆد✅  IPTV VIP
-https://v.redd.it/smx05t0jmjee1/HLS_720.m3u8
 #EXTINF:0 CUID="8622" tvg-name="WAAR TV" tvg-logo="https://i.postimg.cc/jKbDVzn1/WAAR.png" group-title="(B)  KURDISH ",WAAR TV
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_240p/chunks.m3u8
 #EXTINF:0 CUID="8623" tvg-name="AVAR TV" tvg-logo="https://i.postimg.cc/gGpP3sFT/AVAR.png" group-title="(B)  KURDISH ",AVAR TV
