@@ -398,11 +398,11 @@ http://sportook.online/BEIN-SP9/video.m3u8
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw 4K" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",Rudaw 4K
 #EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="http://myserveriptv.com:2082/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" group-title="(A)Kurdistan كوردستان  vip",RONAHI TV
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153256
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROJAVA" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",ROJAVA
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/214311
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=10002.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AVA TV" tvg-logo="http://myserveriptv.com:2082/images/52b01b54de08a2f5f4159e12c4b7ee78.png" group-title="(A)Kurdistan كوردستان  vip",AVA TV
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153239
+https://ava4.store/upload/ava.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURDISTAN 24" tvg-logo="http://myserveriptv.com:2082/images/2adbcf3e1e055b79332bf48007725d32.png" group-title="(A)Kurdistan كوردستان  vip",KURDISTAN 24
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153275
 #EXTINF:-1 tvg-id="" tvg-name="Shams Tv News" tvg-logo="http://myserveriptv.com:2082/images/shamstvnews.png" group-title="(A)Kurdistan كوردستان  vip",Shams Tv News
