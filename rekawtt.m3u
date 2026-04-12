@@ -48,7 +48,6 @@ http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="(B)  KURDISH ",AVA TV HD
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="(B)  KURDISH ",NRT HD
-http://109.71.252.138/NRT/index.m3u8
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="(B)  KURDISH ",NRT 2
 https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
@@ -411,7 +410,7 @@ https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/276463
 #EXTINF:-1 tvg-id="" tvg-name="STERK KURD" tvg-logo="http://myserveriptv.com:2082/images/b50ef1e34c53a792c0b4e26cf83c94f4.png" group-title="(A)Kurdistan كوردستان  vip",STERK KURD
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153258
 #EXTINF:-1 tvg-id="" tvg-name="NRT 1" tvg-logo="http://myserveriptv.com:2082/images/a38ddc8d29a8252ac3bedc8f55ac059a.png" group-title="(A)Kurdistan كوردستان  vip",NRT 1
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/228256
+https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRT 2" tvg-logo="http://myserveriptv.com:2082/images/268ee7670bc696699c131f646039709e.png" group-title="(A)Kurdistan كوردستان  vip",NRT 2
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153290
 #EXTINF:-1 tvg-id="" tvg-name="NRT 3 Kids" tvg-logo="http://myserveriptv.com:2082/images/d83f4a0d377de0457489a0b1b7da7079.png" group-title="(A)Kurdistan كوردستان  vip",NRT 3 Kids
