@@ -395,7 +395,7 @@ http://sportook.online/BEIN-SP8/video.m3u8
 #EXTINF:0 CUID="17486" tvg-name="BEIN SPORTS 9 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 9 4K
 http://sportook.online/BEIN-SP9/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",Rudaw
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/256539
+https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw 4K" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",Rudaw 4K
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/256538
 #EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="http://myserveriptv.com:2082/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" group-title="(A)Kurdistan كوردستان  vip",RONAHI TV
