@@ -346,7 +346,7 @@ http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="(B)  KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
 #EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="(B)  KURDISH Sports",AVA Sport 4K
-http://supaapp.xyz/live/2551810583569940/2025565766597215/358221.ts
+http://178.237.58.156:2095/live/2551810583569940/2025565766597215/358221.ts
 #EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="(B)  KURDISH Sports",NRT Sport 4K
 https://16k.xyz:443/pHS6CdyBwv8F/sa4r2En88NZn/300289
 #EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="(B)  KURDISH Sports",ASTERA SPORT1
