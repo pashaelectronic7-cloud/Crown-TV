@@ -415,7 +415,7 @@ https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=1
 #EXTINF:-1 tvg-id="" tvg-name="KURDISTAN 24" tvg-logo="http://myserveriptv.com:2082/images/2adbcf3e1e055b79332bf48007725d32.png" group-title="(A)Kurdistan كوردستان  vip",KURDISTAN 24
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153275
 #EXTINF:-1 tvg-id="" tvg-name="Kurdsat TV" tvg-logo="http://myserveriptv.com:2082/images/217b4fcc1f2eaf1dbd3c4b92cacf5be4.png" group-title="(A)Kurdistan كوردستان  vip",Kurdsat TV
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/155097
+https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KurdMax Tv" tvg-logo="http://myserveriptv.com:2082/images/5d053924a79827432054eab02dac565f.png" group-title="(A)Kurdistan كوردستان  vip",KurdMax Tv
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153281
 #EXTINF:-1 tvg-id="" tvg-name="KurdMax Show TV" tvg-logo="http://myserveriptv.com:2082/images/70cffe621dc26dd7fbf2dd35d30edfc4.png" group-title="(A)Kurdistan كوردستان  vip",KurdMax Show TV
