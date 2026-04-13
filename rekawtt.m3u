@@ -58,7 +58,7 @@ https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:0 CUID="8515" tvg-name="RUDAW HD" tvg-logo="https://i.postimg.cc/rpTvrtr0/Pics-Art-25-08-01-14-36-12-848.png" group-title="(B)  KURDISH ",RUDAW HD
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 #EXTINF:0 CUID="8516" tvg-name="K24 FHD" tvg-logo="https://i.postimg.cc/HnMqM0BM/Pics-Art-25-08-01-14-37-22-115.png" group-title="(B)  KURDISH ",K24 FHD
-https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+http://104.160.15.142/myMw3h1dWwBNkFS__hi__J5L42v__ih__G41MvV58PeHdO5aB__ih__K1Q0biXUDyWyZsLGqo7d48e__hi__z3xEX2h7y2U2__ih____hi__q4taIKgB5shz4HUsYqFFyIpD3e__hi__0TcNc2QSx3XLkOQ__ih__oEPKVi4oP34M__ih__AL__ih__VGx6dsoNjvwa7HHlTJkxyxclm3y4ts00WOKVm8OGAOI14za__hi__LTbhdLXq1Ee3a5tCGq9udlTOhNZcobFD0__ih__ApZMXkosCDxKPOBBtA__hi__k9jq3D1d0Y6__ih__poDY4gickAxf7GQlu5YRc6NHCcRbw==---/cache/K24-HD/master.m3u8
 #EXTINF:0 CUID="8517" tvg-name="Channel 8 HD" tvg-logo="https://i.postimg.cc/Gd1prmrY/c8.png" group-title="(B)  KURDISH ",Channel 8 HD
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:0 CUID="8518" tvg-name="KURDSAT" tvg-logo="https://i.postimg.cc/wgWn2wWv/kurdsat-1.png" group-title="(B)  KURDISH ",KURDSAT
