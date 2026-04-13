@@ -396,19 +396,6 @@ http://sportook.online/BEIN-SP8/video.m3u8
 http://sportook.online/BEIN-SP9/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",Rudaw
 https://live.rudaw.net/hls/rudaw-tv/stream_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rudaw 4K" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",Rudaw 4K
-#EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="http://myserveriptv.com:2082/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" group-title="(A)Kurdistan كوردستان  vip",RONAHI TV
-https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ROJAVA" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",ROJAVA
-https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=10002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AVA TV" tvg-logo="http://myserveriptv.com:2082/images/52b01b54de08a2f5f4159e12c4b7ee78.png" group-title="(A)Kurdistan كوردستان  vip",AVA TV
-https://ava4.store/upload/ava.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN 24" tvg-logo="http://myserveriptv.com:2082/images/2adbcf3e1e055b79332bf48007725d32.png" group-title="(A)Kurdistan كوردستان  vip",KURDISTAN 24
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153275
-#EXTINF:-1 tvg-id="" tvg-name="Shams Tv News" tvg-logo="http://myserveriptv.com:2082/images/shamstvnews.png" group-title="(A)Kurdistan كوردستان  vip",Shams Tv News
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/276463
-#EXTINF:-1 tvg-id="" tvg-name="STERK KURD" tvg-logo="http://myserveriptv.com:2082/images/b50ef1e34c53a792c0b4e26cf83c94f4.png" group-title="(A)Kurdistan كوردستان  vip",STERK KURD
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153258
 #EXTINF:-1 tvg-id="" tvg-name="NRT 1" tvg-logo="http://myserveriptv.com:2082/images/a38ddc8d29a8252ac3bedc8f55ac059a.png" group-title="(A)Kurdistan كوردستان  vip",NRT 1
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRT 2" tvg-logo="http://myserveriptv.com:2082/images/268ee7670bc696699c131f646039709e.png" group-title="(A)Kurdistan كوردستان  vip",NRT 2
@@ -417,8 +404,16 @@ https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153290
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/226345
 #EXTINF:-1 tvg-id="" tvg-name="NRT 4" tvg-logo="http://myserveriptv.com:2082/images/c22a1f4a43f35aefd7060d1f848d6143.png" group-title="(A)Kurdistan كوردستان  vip",NRT 4
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153253
+#EXTINF:-1 tvg-id="" tvg-name="AVA TV" tvg-logo="http://myserveriptv.com:2082/images/52b01b54de08a2f5f4159e12c4b7ee78.png" group-title="(A)Kurdistan كوردستان  vip",AVA TV
+https://ava4.store/upload/ava.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURDSAT NEWS" tvg-logo="http://myserveriptv.com:2082/images/896446d786d5e4e4943fbd6bc5269087.png" group-title="(A)Kurdistan كوردستان  vip",KURDSAT NEWS
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/236927
+#EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="http://myserveriptv.com:2082/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" group-title="(A)Kurdistan كوردستان  vip",RONAHI TV
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ROJAVA" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",ROJAVA
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD-avc1_2500000=10002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KURDISTAN 24" tvg-logo="http://myserveriptv.com:2082/images/2adbcf3e1e055b79332bf48007725d32.png" group-title="(A)Kurdistan كوردستان  vip",KURDISTAN 24
+https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153275
 #EXTINF:-1 tvg-id="" tvg-name="Kurdsat TV" tvg-logo="http://myserveriptv.com:2082/images/217b4fcc1f2eaf1dbd3c4b92cacf5be4.png" group-title="(A)Kurdistan كوردستان  vip",Kurdsat TV
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/155097
 #EXTINF:-1 tvg-id="" tvg-name="KurdMax Tv" tvg-logo="http://myserveriptv.com:2082/images/5d053924a79827432054eab02dac565f.png" group-title="(A)Kurdistan كوردستان  vip",KurdMax Tv
@@ -427,8 +422,6 @@ https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153281
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/246963
 #EXTINF:-1 tvg-id="" tvg-name="KurdMax Music" tvg-logo="http://myserveriptv.com:2082/images/70cffe621dc26dd7fbf2dd35d30edfc4.png" group-title="(A)Kurdistan كوردستان  vip",KurdMax Music
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/246935
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://myserveriptv.com:2082/images/97af4cc6ee709848ba52e46187fac1d3.png" group-title="(A)Kurdistan كوردستان  vip",NET TV
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153251
 #EXTINF:-1 tvg-id="" tvg-name="GALI KURDISTAN TV" tvg-logo="http://myserveriptv.com:2082/images/c884dd72a33c6b0a1acfddafebeeb96a.png" group-title="(A)Kurdistan كوردستان  vip",GALI KURDISTAN TV
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153241
 #EXTINF:-1 tvg-id="" tvg-name="WAAR TV" tvg-logo="http://myserveriptv.com:2082/images/be2149d390a5e65ae5adb932a0301ea4.png" group-title="(A)Kurdistan كوردستان  vip",WAAR TV
@@ -447,6 +440,12 @@ https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153257
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153271
 #EXTINF:-1 tvg-id="" tvg-name="PAYAM" tvg-logo="http://myserveriptv.com:2082/images/d914842f287e2a406b5011ff79117227.png" group-title="(A)Kurdistan كوردستان  vip",PAYAM
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153254
+#EXTINF:-1 tvg-id="" tvg-name="Shams Tv News" tvg-logo="http://myserveriptv.com:2082/images/shamstvnews.png" group-title="(A)Kurdistan كوردستان  vip",Shams Tv News
+https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/276463
+#EXTINF:-1 tvg-id="" tvg-name="STERK KURD" tvg-logo="http://myserveriptv.com:2082/images/b50ef1e34c53a792c0b4e26cf83c94f4.png" group-title="(A)Kurdistan كوردستان  vip",STERK KURD
+https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153258
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://myserveriptv.com:2082/images/97af4cc6ee709848ba52e46187fac1d3.png" group-title="(A)Kurdistan كوردستان  vip",NET TV
+https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153251
 #EXTINF:-1 tvg-id="" tvg-name="IRAQIA KURD" tvg-logo="http://myserveriptv.com:2082/images/450ab34ceb6b602ee71095ead40c98ab.png" group-title="(A)Kurdistan كوردستان  vip",IRAQIA KURD
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153274
 #EXTINF:-1 tvg-id="" tvg-name="SAHAR KURDI" tvg-logo="http://myserveriptv.com:2082/images/9bcf05eb965ba1f7a66eab50571b9c45.png" group-title="(A)Kurdistan كوردستان  vip",SAHAR KURDI
