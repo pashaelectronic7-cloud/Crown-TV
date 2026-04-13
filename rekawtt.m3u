@@ -407,7 +407,7 @@ https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153253
 #EXTINF:-1 tvg-id="" tvg-name="AVA TV" tvg-logo="http://myserveriptv.com:2082/images/52b01b54de08a2f5f4159e12c4b7ee78.png" group-title="(A)Kurdistan كوردستان  vip",AVA TV
 https://ava4.store/upload/ava.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURDSAT NEWS" tvg-logo="http://myserveriptv.com:2082/images/896446d786d5e4e4943fbd6bc5269087.png" group-title="(A)Kurdistan كوردستان  vip",KURDSAT NEWS
-https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/236927
+https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="http://myserveriptv.com:2082/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" group-title="(A)Kurdistan كوردستان  vip",RONAHI TV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ROJAVA" tvg-logo="http://myserveriptv.com:2082/images/c0d31a4071d06be36cdbf85175fc3285.png" group-title="(A)Kurdistan كوردستان  vip",ROJAVA
