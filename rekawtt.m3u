@@ -345,15 +345,15 @@ https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 #EXTINF:0 CUID="8650" tvg-name="PESHMARGA TV" tvg-logo="https://i.postimg.cc/81wsh67y/pe-1.png" group-title="(B)  KURDISH ",PESHMARGA TV
 http://142.132.133.190:1935/live/peshmerge/index.m3u8
-#EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="(B)  Sports",AVA Sport 4K
+#EXTINF:-1 tvg-chno="723" tvg-id="" tvg-name="AVA Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/AVA_Sport.png" group-title="(B) KURDISH Sports",AVA Sport 4K
 https://live3.karwan.tv/ava-sport/index.mpd?token=45826706e7a86aab238dc5ff26f80cebd13d1dde-67945cfb43e09ffbffdacf3329b7ea14-1776206267-1776195467&remote=176.222.62.87
-#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="(B)   Sports",NRT Sport 4K
+#EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="NRT Sport 4K" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/NRT_SPORT.png" group-title="(B)  KURDISH Sports",NRT Sport 4K
 http://104.160.15.53/lbengine/+ph/myMw3h1dWwBNkFS__hi__J5L42v__ih__G41MvV58PeHdO5aB__ih__K1Q0biXUDyWyZsLGqo7d48e__hi__LrBYDpennAZn79lRvnsQ53xPr__hi__hWNopRHBI1E8hJoPYpvAkcbXuE2KXoQnc2IeN4Z0X__hi__Yf4z__ih__UrdpHw0fdu3RJ6tipe1qAXlt0c9ViR2azHLXrTg__ih__Fa8QDHtrxUbDXpXnZWCHW9OqG__ih__CmWkbqSRMFYx8ljOTInK6VFds3snGBZXc0bHH6Mn4S8O3Np5uV7BJC5yHzebmO0zVIWbYoNFEbyg0jwOdn3Wdvk13KxTHypXE=---/cache/NRT-Sport-LB/master.m3u8
 #EXTINF:-1 tvg-chno="726" tvg-id="" tvg-name="ASTERA SPORT1" tvg-logo="https://i.postimg.cc/NYRPZWy8/ASTERA.png" group-title="(B)  KURDISH Sports",ASTERA SPORT1
 http://109.71.252.138/AsteraSport/video.m3u8?token=yusfstaore@asdasdfadaaafffs
-#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name=" Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="(B)  Sports", Sport HD
+#EXTINF:-1 tvg-chno="728" tvg-id="" tvg-name=" Sport HD" tvg-logo="http://safiafamily.com/uploads/family/kurdish/Duhok_Sport_HD.png" group-title="(B) KURDISH Sports", Sport HD
 https://storage.googleapis.com/undghsuerovertung2/mux_video_ts1/index-1.m3u8
-#EXTINF:-1 tvg-chno="792" tvg-id="" tvg-name="Zaxo Sport" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="(B)   Sports",Zaxo Sport
+#EXTINF:-1 tvg-chno="792" tvg-id="" tvg-name="Zaxo Sport" tvg-logo="https://safiafamily.com/uploads/family/kurdish_sport/ZAXO_Sport.png" group-title="(B)  KURDISH Sports",Zaxo Sport
 http://109.71.252.138/zaxosport/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 #EXTM3U url-tvg="https://xtream-editor.com/load/epg/3VX069917A64305C4A5EA296F97550EE"
 #EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="Alwan Sport 1 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="Alwan Network 4K",Alwan Sport 1 4K
