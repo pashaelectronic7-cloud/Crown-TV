@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/TYw1FXtb/kurdsat_tv.jpg" group-title="Kurdish ", Kurdsat ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/TYw1FXtb/kurdsat_tv.jpg" group-title="Kurdish", Kurdsat ᴴᴰ
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsC/images.jpg" group-title="Kurdish", Kurdsat News ᴴᴰ
@@ -62,7 +62,7 @@ http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/27b5edc6-48d7-4bf9-965b-1b52ffeff0a4.png" group-title="Kurdish", Shna Quran ᴴᴰ
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish - کوردی", NRT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish", NRT 2 ᴴᴰ
 https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYPB/8df87373_007b_4805_b9aa_8e9bf31ef541.png" group-title="Kurdish", NRT 4 ᴴᴰ
@@ -71,7 +71,7 @@ https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hYjDgTR/bec87879_dc44_4a64_901a_a1c21264f421.png" group-title="Kurdish", Sada TV ᴴᴰ
 http://baskhd.ddns.net:40/live/sadatv/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish - کوردی", iStar Quran ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish", iStar Quran ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QCxvspWY/0c4cf6f4_8528_4c79_8f9c_17206fbf3b4e.png" group-title="Kurdish", Mix ᴴᴰ
@@ -86,7 +86,7 @@ http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/yxY2BFS9/5ecaddc2_891a_4b6d_95df_e9d79f09cc43.png" group-title="Kurdish", Barin Family ᴴᴰ
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/L56GRzZZ/e0381fcc_de1f_4e59_ba36_c711a42916d9.png" group-title="Kurdishکوردی", Barin Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/L56GRzZZ/e0381fcc_de1f_4e59_ba36_c711a42916d9.png" group-title="Kurdish", Barin Quran ᴴᴰ
 http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/HnsFHQ7y/7530eab0_7389_4de6_a3db_05d75a958ac5.png" group-title="Kurdish", Barin Movies ᴴᴰ
@@ -3787,10 +3787,3 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Germany - ئەڵمانیا", Ewtn ᴴᴰ
 https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی دۆبلاژکراو", شمشێری جادوویی 
-https://rashaba.com/upload2/videos/2026/01/ey9QdtNbebgDkv7/av1/1080/ey9QdtNbebgDkv7_1080_av1.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="فیلمی ژێرنووسی کوردی", Zotopia 2 (Kurdish Sub)
-https://krdline.shafilm.vip/ShaSorani/Movie/Zootopia.2.2025.Shafilm.mp4
