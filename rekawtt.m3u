@@ -377,7 +377,7 @@ http://dksip.com:80/live/1037839/151599926553/461667.ts
 #EXTINF:-1 tvg-chno="153" tvg-id="" tvg-name="Alwan Sport 10 4K" tvg-logo="https://safiafamily.com/uploads/family/alwan/Alwan_Ryazya_1.png" group-title="Alwan Network 4K",Alwan Sport 10 4K
 http://dksip.com:80/live/1037839/151599926553/461668.ts
 #EXTINF:0 CUID="17463" tvg-name="BEIN SPORTS 1  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORTS 1 4k
-http://sportook.online/BEIN-S1/tracks-v1a1/mono.m3u8
+https://3syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 #EXTINF:0 CUID="17464" tvg-name="BEIN SPORT 2  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 2  4k
 http://sportook.online/BEIN-S2/tracks-v1a1/mono.m3u8
 #EXTINF:0 CUID="17467" tvg-name="BEIN SPORT 3  4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png" group-title="BEIN SPORTS FHD 4K ",BEIN SPORT 3  4k
