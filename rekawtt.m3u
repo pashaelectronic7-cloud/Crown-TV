@@ -46,7 +46,7 @@ http://naqshi-media.com:1935/live/NaqshiMedia/playlist.m3u8
 #EXTINF:0 CUID="8509" tvg-name="BANGAWAZ ۞-Badinan" tvg-logo="https://i.postimg.cc/8phZPXcT/bangxwaz.png" group-title="(B)  KURDISH ",BANGAWAZ ۞-Badinan۞
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/playlist.m3u8
 #EXTINF:0 CUID="8510" tvg-name="AVA TV HD" tvg-logo="https://i.postimg.cc/GbX6v0gL/ava-1.png" group-title="(B)  KURDISH ",AVA TV HD
-https://raw.githubusercontent.com/pashaelectronic7-cloud/Crown-TV/refs/heads/main/ava_sport.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776298104/ei/GNTfafaVLJfdvdIPn9ftuQc/ip/176.222.62.160/id/Amupw8KUkKc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774349/txs/51774349%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/bui/AUUZDGJ147HL0bNyBMd8yjjPPYi84o-cxXSIerRydwq4A02bgL8IWTXbWkZxWoW_47_IAZjHlqdcEY5-/spc/jlWavUrfp-oMlkXRSbLMnav0tOAVkKGF86bgWWfxUO3Nywq9zw/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALD-PqeBq9JLVxEgMUEIdYKAgq06Ke_HODGBP_6qZ9gvAiEA19znNNVs3_JIsLT3RIwTpSDnAM0Tr3CiiMJmhFLix3M%3D/file/index.m3u8
 #EXTINF:0 CUID="8511" tvg-name="NRT HD" tvg-logo="https://i.postimg.cc/yVVqtpnh/NRT.png" group-title="(B)  KURDISH ",NRT HD
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 #EXTINF:0 CUID="8512" tvg-name="NRT 2" tvg-logo="https://i.postimg.cc/JRwv9XjG/nrt2-2.png" group-title="(B)  KURDISH ",NRT 2
@@ -405,7 +405,7 @@ https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/226345
 #EXTINF:-1 tvg-id="" tvg-name="NRT 4" tvg-logo="http://myserveriptv.com:2082/images/c22a1f4a43f35aefd7060d1f848d6143.png" group-title="(A)Kurdistan كوردستان  vip",NRT 4
 https://myserveriptv.com:443/7wOd6fH332c1/lO1hcC05d9B6fsu15eR/153253
 #EXTINF:-1 tvg-id="" tvg-name="AVA TV" tvg-logo="http://myserveriptv.com:2082/images/52b01b54de08a2f5f4159e12c4b7ee78.png" group-title="(A)Kurdistan كوردستان  vip",AVA TV
-https://raw.githubusercontent.com/pashaelectronic7-cloud/Crown-TV/refs/heads/main/ava_sport.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1776298104/ei/GNTfafaVLJfdvdIPn9ftuQc/ip/176.222.62.160/id/Amupw8KUkKc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51774349/txs/51774349%2C51774352/hfr/1/playlist_duration/30/manifest_duration/30/bui/AUUZDGJ147HL0bNyBMd8yjjPPYi84o-cxXSIerRydwq4A02bgL8IWTXbWkZxWoW_47_IAZjHlqdcEY5-/spc/jlWavUrfp-oMlkXRSbLMnav0tOAVkKGF86bgWWfxUO3Nywq9zw/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhALD-PqeBq9JLVxEgMUEIdYKAgq06Ke_HODGBP_6qZ9gvAiEA19znNNVs3_JIsLT3RIwTpSDnAM0Tr3CiiMJmhFLix3M%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KURDSAT NEWS" tvg-logo="http://myserveriptv.com:2082/images/896446d786d5e4e4943fbd6bc5269087.png" group-title="(A)Kurdistan كوردستان  vip",KURDSAT NEWS
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RONAHI TV" tvg-logo="http://myserveriptv.com:2082/images/bc3ac2b2d2877a95fc3a200e1d1072b7.png" group-title="(A)Kurdistan كوردستان  vip",RONAHI TV
