@@ -1,284 +1,284 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/TYw1FXtb/kurdsat_tv.jpg" group-title="A Kurdish", Kurdsat ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/TYw1FXtb/kurdsat_tv.jpg" group-title="A Kurdish VIP", Kurdsat ᴴᴰ
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsC/images.jpg" group-title="Kurdish", Kurdsat News ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsC/images.jpg" group-title="A Kurdish VIP", Kurdsat News ᴴᴰ
 https://hlspackager.akamaized.net/live/DB/KURDSAT_NEWS/HLS/KURDSAT_NEWS.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDXxqRT7/images_(3).jpg" group-title="Kurdish", NRT News ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDXxqRT7/images_(3).jpg" group-title="A Kurdish VIP", NRT News ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-nrt/nrt/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsQ/images_(1).jpg" group-title="Kurdish", Rudaw ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/5N0yTMsQ/images_(1).jpg" group-title="A Kurdish VIP", Rudaw ᴴᴰ
 https://hawezhd@svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/VL6vpcKr/images_(2).jpg" group-title="Kurdish", AVA Media ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/VL6vpcKr/images_(2).jpg" group-title="A Kurdish VIP", AVA Media ᴴᴰ
 http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3JRNVHtg/835134.jpg" group-title="Kurdish", Channel 8 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3JRNVHtg/835134.jpg" group-title="A Kurdish VIP", Channel 8 ᴴᴰ
 https://live.channel8.com/Channel8-Kurdish/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/c6e95d8b-3ca5-4f74-b27a-156ac625fa5a.png" group-title="Kurdish", Kurdistan 24 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/c6e95d8b-3ca5-4f74-b27a-156ac625fa5a.png" group-title="A Kurdish VIP", Kurdistan 24 ᴴᴰ
 https://hawezhd@d1x82nydcxndze.cloudfront.net:443/live/index_720p25.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/cbada311-dad3-4fbd-a0bd-a8afd6c158ed.png" group-title="Kurdish", Payam TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/cbada311-dad3-4fbd-a0bd-a8afd6c158ed.png" group-title="A Kurdish VIP", Payam TV ᴴᴰ
 https://media2.streambrothers.com:1936/8218/8218/chunklist_w1560695880.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/fd070ac3-ff28-4eb5-abcb-60a849412d8a.png" group-title="Kurdish", Speda ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/fd070ac3-ff28-4eb5-abcb-60a849412d8a.png" group-title="A Kurdish VIP", Speda ᴴᴰ
 http://109.123.245.192/Spedatv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/eb11fd8b-decf-4887-b6ed-166875779ee8.png" group-title="Kurdish", Speda Drama ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/eb11fd8b-decf-4887-b6ed-166875779ee8.png" group-title="A Kurdish VIP", Speda Drama ᴴᴰ
 http://109.123.245.192/Spedadrama/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/84676415-7478-48a4-840e-20e8011e4c5d.png" group-title="Kurdish", Gali Kurdistan ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/84676415-7478-48a4-840e-20e8011e4c5d.png" group-title="A Kurdish VIP", Gali Kurdistan ᴴᴰ
 https://live.host247.net/gk/gksat/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/e9efce5e-dd7b-4655-9428-2af4ef1a7df1.png" group-title="Kurdish", Kirkuk ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/e9efce5e-dd7b-4655-9428-2af4ef1a7df1.png" group-title="A Kurdish VIP", Kirkuk ᴴᴰ
 https://live.kirkuklive.live/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/619abe99-8dc1-4023-a2b4-0eb08d5b7468.png" group-title="Kurdish", Amozhgary ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/619abe99-8dc1-4023-a2b4-0eb08d5b7468.png" group-title="A Kurdish VIP", Amozhgary ᴴᴰ
 https://app-live.org/live/3268334b/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/31810054-8737-4187-87f1-68a91a537daf.png" group-title="Kurdish", Khak ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/31810054-8737-4187-87f1-68a91a537daf.png" group-title="A Kurdish VIP", Khak ᴴᴰ
 http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish", Newline 1 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A Kurdish VIP", Newline 1 ᴴᴰ
 http://109.123.245.192/Newline1/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish", Newline 2 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A Kurdish VIP", Newline 2 ᴴᴰ
 http://109.123.245.192/Newline2/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish", Zed TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A Kurdish VIP", Zed TV ᴴᴰ
 http://109.123.245.192/Zedtv/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Kurdish", Zed TV Plus ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="A Kurdish VIP", Zed TV Plus ᴴᴰ
 http://109.123.245.192/Zedplus/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/0895ab2b-4ff0-4211-b555-0d09453c9c48.png" group-title="Kurdish", Halabja ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/0895ab2b-4ff0-4211-b555-0d09453c9c48.png" group-title="A Kurdish VIP", Halabja ᴴᴰ
 http://halabjatv.ddns.net:40/live/halabjatv/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/4abfd2d2-a8a3-4510-ac8a-95d5d09c1a2e.png" group-title="Kurdish", Shna TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/4abfd2d2-a8a3-4510-ac8a-95d5d09c1a2e.png" group-title="A Kurdish VIP", Shna TV ᴴᴰ
 http://shnatv.ddns.net:1935/live/shnatv/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/27b5edc6-48d7-4bf9-965b-1b52ffeff0a4.png" group-title="Kurdish", Shna Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.supaimg.com/27b5edc6-48d7-4bf9-965b-1b52ffeff0a4.png" group-title="A Kurdish VIP", Shna Quran ᴴᴰ
 http://rawshan.ddns.net:1935/live/rawshantv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish", NRT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="A Kurdish VIP", NRT 2 ᴴᴰ
 https://ca-rt.onetv.app/NRT2/index-0.m3u8?token=onetv202
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYPB/8df87373_007b_4805_b9aa_8e9bf31ef541.png" group-title="Kurdish", NRT 4 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYPB/8df87373_007b_4805_b9aa_8e9bf31ef541.png" group-title="A Kurdish VIP", NRT 4 ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-nrt4stream/nrt4stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hYjDgTR/bec87879_dc44_4a64_901a_a1c21264f421.png" group-title="Kurdish", Sada TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hYjDgTR/bec87879_dc44_4a64_901a_a1c21264f421.png" group-title="A Kurdish VIP", Sada TV ᴴᴰ
 http://baskhd.ddns.net:40/live/sadatv/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish", iStar Quran ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="A Kurdish VIP", iStar Quran ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-istar4ktv/istar4ktv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QCxvspWY/0c4cf6f4_8528_4c79_8f9c_17206fbf3b4e.png" group-title="Kurdish", Mix ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QCxvspWY/0c4cf6f4_8528_4c79_8f9c_17206fbf3b4e.png" group-title="A Kurdish VIP", Mix ᴴᴰ
 http://avrstream.com:1935/live/Mix-kurdy/hawezhd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/vTHCMW6j/09a0cbfd_e21a_4cbf_84fa_f17516dcd4f0.png" group-title="Kurdish", IMK ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/vTHCMW6j/09a0cbfd_e21a_4cbf_84fa_f17516dcd4f0.png" group-title="A Kurdish VIP", IMK ᴴᴰ
 http://imkhd.ddns.net:1935/live/imkhd/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/RhV29cny/9fe4e7a4_3a03_453f_81e5_9c02fdcbc6f9.png" group-title="Kurdish", IMK Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/RhV29cny/9fe4e7a4_3a03_453f_81e5_9c02fdcbc6f9.png" group-title="A Kurdish VIP", IMK Quran ᴴᴰ
 http://avrstream.com:1935/live/IMKQURANHD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/yxY2BFS9/5ecaddc2_891a_4b6d_95df_e9d79f09cc43.png" group-title="Kurdish", Barin Family ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/yxY2BFS9/5ecaddc2_891a_4b6d_95df_e9d79f09cc43.png" group-title="A Kurdish VIP", Barin Family ᴴᴰ
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/L56GRzZZ/e0381fcc_de1f_4e59_ba36_c711a42916d9.png" group-title="Kurdish", Barin Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/L56GRzZZ/e0381fcc_de1f_4e59_ba36_c711a42916d9.png" group-title="A Kurdish VIP", Barin Quran ᴴᴰ
 http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/HnsFHQ7y/7530eab0_7389_4de6_a3db_05d75a958ac5.png" group-title="Kurdish", Barin Movies ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/HnsFHQ7y/7530eab0_7389_4de6_a3db_05d75a958ac5.png" group-title="A Kurdish VIP", Barin Movies ᴴᴰ
 http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/d3Hp0L8n/19c1eca0_a4ef_4385_8f5a_491609796b9b.png" group-title="Kurdish", Bask ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/d3Hp0L8n/19c1eca0_a4ef_4385_8f5a_491609796b9b.png" group-title="A Kurdish VIP", Bask ᴴᴰ
 http://baskhd.ddns.net:40/live/baskhd/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/MpqcbHRs/76af16d4_6156_4ae6_a50b_ecf5b9a82333.png" group-title="Kurdish", Soz ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/MpqcbHRs/76af16d4_6156_4ae6_a50b_ecf5b9a82333.png" group-title="A Kurdish VIP", Soz ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-sozetvq/sozetvq/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/VkmSBvMG/395236e5_4084_401d_bf42_a89c07f3c382.png" group-title="Kurdish", Soz Movies ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/VkmSBvMG/395236e5_4084_401d_bf42_a89c07f3c382.png" group-title="A Kurdish VIP", Soz Movies ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/RhV29cnd/c21d701f_a399_42aa_8745_e87380fffae8.png" group-title="Kurdish", Spi ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/RhV29cnd/c21d701f_a399_42aa_8745_e87380fffae8.png" group-title="A Kurdish VIP", Spi ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-spitv4k_kamalblbas/spitv4k_kamalblbas/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/K8xKrjBF/20ea1acd_f9d4_4c9f_8a39_2c3a1afa4fcf.png" group-title="Kurdish", Spi Kids ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/K8xKrjBF/20ea1acd_f9d4_4c9f_8a39_2c3a1afa4fcf.png" group-title="A Kurdish VIP", Spi Kids ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-spikids4k2025/spikids4k2025/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/HLFw45gR/San-TV.png" group-title="Kurdish", SAN ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/HLFw45gR/San-TV.png" group-title="A Kurdish VIP", SAN ᴴᴰ
 http://live20.bozztv.com/giatv/giatv-sozquran/sozquran/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/rsn3pKS7/e0e8658a_65eb_404f_8e2c_0ef41a288f15.png" group-title="Kurdish", Red TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/rsn3pKS7/e0e8658a_65eb_404f_8e2c_0ef41a288f15.png" group-title="A Kurdish VIP", Red TV ᴴᴰ
 http://avrstream.com:1935/live/REDTV/hawezhd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/bJR4K6db/0df0ca3d_c383_45b1_8ebc_607965c0a248.png" group-title="Kurdish", Mihrab TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/bJR4K6db/0df0ca3d_c383_45b1_8ebc_607965c0a248.png" group-title="A Kurdish VIP", Mihrab TV ᴴᴰ
 http://baskhd.ddns.net:40/live/MihrabTV/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/SsGHwZjc/e6dbf978_f53e_4390_8b1b_8ef29eb10098.png" group-title="Kurdish", Mihrab FM ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/SsGHwZjc/e6dbf978_f53e_4390_8b1b_8ef29eb10098.png" group-title="A Kurdish VIP", Mihrab FM ᴴᴰ
 http://bblserver.ddns.net:1935/live/mihrabfm/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Y9xTJXjW/f35e8498_caa3_4925_87c7_7a64aaa990a0.png" group-title="Kurdish", Kurd 7 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Y9xTJXjW/f35e8498_caa3_4925_87c7_7a64aaa990a0.png" group-title="A Kurdish VIP", Kurd 7 ᴴᴰ
 http://avrstream.com:1935/live/Kurd7HD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hsdLfgQ/Shart_TV.png" group-title="Kurdish", Shar ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hsdLfgQ/Shart_TV.png" group-title="A Kurdish VIP", Shar ᴴᴰ
 http://avrstream.com:1935/live/SHARTV/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hvy6Gf9p/Shar_Quran.png" group-title="Kurdish", Shar Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hvy6Gf9p/Shar_Quran.png" group-title="A Kurdish VIP", Shar Quran ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-sharqurantv/sharqurantv/chunks.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/C149Wvdj/f777a883_714f_4030_9044_6e5ec52ae5b1.png" group-title="Kurdish", Walla Chamchamall ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/C149Wvdj/f777a883_714f_4030_9044_6e5ec52ae5b1.png" group-title="A Kurdish VIP", Walla Chamchamall ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-halabja88walla/halabja88walla/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/GmK4MRxj/Zever.png" group-title="Kurdish", Zever Quran Kareem ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/GmK4MRxj/Zever.png" group-title="A Kurdish VIP", Zever Quran Kareem ᴴᴰ
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/VvpDJTNh/20251219-182429.png" group-title="Kurdish", Bahra TV ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://i.postimg.cc/VvpDJTNh/20251219-182429.png" group-title="A Kurdish VIP", Bahra TV ᴴᴰ
 http://51.89.152.180/live/BahraHD/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/0ynztv0Z/TRTKurdi.png" group-title="Kurdish", TRT Kurdî ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/0ynztv0Z/TRTKurdi.png" group-title="A Kurdish VIP", TRT Kurdî ᴴᴰ
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddshow/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Quran ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdquran/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN News ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN News ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdnews/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Movies ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Movies ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdmovies/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Action ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Action ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Drama ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Drama ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddrama/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Kids ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Kids ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdkids/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Documentary ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Documentary ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="Kurdish", MMN Action ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/C5hzjLRZ/MMN.png" group-title="A Kurdish VIP", MMN Action ᴴᴰ
 http://mmn.mypsx.net:1935/live/mmnhdaction/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/50mDZPj2/4281b9b4_2e8d_49f6_b586_e841ada8b742.png" group-title="Kurdish", Afarin Kids ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/50mDZPj2/4281b9b4_2e8d_49f6_b586_e841ada8b742.png" group-title="A Kurdish VIP", Afarin Kids ᴴᴰ
 http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w1505309502.m3u8?nimblesessionid=574377&amp;
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hj0NHChG/9623a529_7853_46b9_a76f_41beb04eb503.png" group-title="Kurdish", Afarin Baxcha ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hj0NHChG/9623a529_7853_46b9_a76f_41beb04eb503.png" group-title="A Kurdish VIP", Afarin Baxcha ᴴᴰ
 http://afarintv2.flashmediacast.com:1935/afarinTV/livestream/hawezhd.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/ydT2wfW1/39ad0db4_efd7_432b_b325_a6393c8dbf2c.png" group-title="Kurdish", Afarin Radio ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/ydT2wfW1/39ad0db4_efd7_432b_b325_a6393c8dbf2c.png" group-title="A Kurdish VIP", Afarin Radio ᴴᴰ
 http://afarintv2.flashmediacast.com:1935/afarinTV/d1/livestream/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/k5R1m7Xd/20251219_183620.png" group-title="Kurdish", Nubar ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/k5R1m7Xd/20251219_183620.png" group-title="A Kurdish VIP", Nubar ᴴᴰ
 http://stream.nubar.tv:1935/private/NUBARtv/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/B6xmjNFn/20251219_183646.png" group-title="Kurdish", Nubar Plus ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/B6xmjNFn/20251219_183646.png" group-title="A Kurdish VIP", Nubar Plus ᴴᴰ
 http://stream.nubar.tv:1935/private/NUBARPlus/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/cLhvDWB3/87d5ab1b_48f1_4ba9_9735_19a9607861ee.png" group-title="Kurdish", Ravand ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/cLhvDWB3/87d5ab1b_48f1_4ba9_9735_19a9607861ee.png" group-title="A Kurdish VIP", Ravand ᴴᴰ
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/PJr0hm8Q/4821c7d5_54bc_4623_86bd_63fce6feb921.png" group-title="Kurdish", Kurdmax ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/PJr0hm8Q/4821c7d5_54bc_4623_86bd_63fce6feb921.png" group-title="A Kurdish VIP", Kurdmax ᴴᴰ
 https://6476e46b58f91.streamlock.net/liveTrans/KURDB3388/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/T1YBGrWr/0baf0b72_deb7_48a2_a1d4_5dbda79f2031.png" group-title="Kurdish", Kurdmax Show ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/T1YBGrWr/0baf0b72_deb7_48a2_a1d4_5dbda79f2031.png" group-title="A Kurdish VIP", Kurdmax Show ᴴᴰ
 https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/PJr0hm8Q/4821c7d5_54bc_4623_86bd_63fce6feb921.png" group-title="Kurdish", Kurdmax Badini ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/PJr0hm8Q/4821c7d5_54bc_4623_86bd_63fce6feb921.png" group-title="A Kurdish VIP", Kurdmax Badini ᴴᴰ
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxBadine0!/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/T1YBGrWr/0baf0b72_deb7_48a2_a1d4_5dbda79f2031.png" group-title="Kurdish", Kurdmax Show Badini ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/T1YBGrWr/0baf0b72_deb7_48a2_a1d4_5dbda79f2031.png" group-title="A Kurdish VIP", Kurdmax Show Badini ᴴᴰ
 https://6476e46b58f91.streamlock.net:443/liveTrans/SHOW2/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/zffV6QdZ/db035bfe_de57_4c86_8494_286dcdfce703.png" group-title="Kurdish", Kurdistan TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/zffV6QdZ/db035bfe_de57_4c86_8494_286dcdfce703.png" group-title="A Kurdish VIP", Kurdistan TV ᴴᴰ
 https://5a3ed7a72ed4b.streamlock.net:443/live/SMIL:myStream.smil/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="Kurdish", LD Sport Chek ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="A Kurdish VIP", LD Sport Chek ᴴᴰ
 http://hawez@142.132.133.190:1935/live/Sportchek-ld-HawezHD/HawezHD.m3u8?checkedby:hawezHD
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QMMHwzfw/7aeb23da_b411_4f96_a2a1_6dc397ca0baf.png" group-title="Kurdish", Bnar ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QMMHwzfw/7aeb23da_b411_4f96_a2a1_6dc397ca0baf.png" group-title="A Kurdish VIP", Bnar ᴴᴰ
 http://baskhd.ddns.net:40/live/bnar4k/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/KYYRwW0V/2c30d40e_08db_4379_9662_4e5e91723b34.png" group-title="Kurdish", Bnar Movies ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/KYYRwW0V/2c30d40e_08db_4379_9662_4e5e91723b34.png" group-title="A Kurdish VIP", Bnar Movies ᴴᴰ
 http://baskhd.ddns.net:40/live/bnarmovies/chunklist_w190169647.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="Kurdish", Dunia TV ᴴᴰ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="noimage.png" group-title="A Kurdish VIP", Dunia TV ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-DniaTV/DniaTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="Kurdish", Znar ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="A Kurdish VIP", Znar ᴴᴰ
 https://fl1002.bozztv.com/ssh101/halabja88h/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="Kurdish", NR 1 Kids ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="A Kurdish VIP", NR 1 Kids ᴴᴰ
 http://142.132.133.190:1935/live/NR1_HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Bnpjh3B3/035a228c_3a87_4541_9264_5b05a93ab677.png" group-title="Kurdish", Niroj ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Bnpjh3B3/035a228c_3a87_4541_9264_5b05a93ab677.png" group-title="A Kurdish VIP", Niroj ᴴᴰ
 http://142.132.133.190:1935/live/Niroj_HD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/GmK4MRxy/6356f165_3302_41ba_95fc_beceb36af4ef.png" group-title="Kurdish", Waar ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/GmK4MRxy/6356f165_3302_41ba_95fc_beceb36af4ef.png" group-title="A Kurdish VIP", Waar ᴴᴰ
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Bnpjh3Bg/622e15fe_0119_44c7_bcb4_082fbdda6134.png" group-title="Kurdish", Mahabad ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Bnpjh3Bg/622e15fe_0119_44c7_bcb4_082fbdda6134.png" group-title="A Kurdish VIP", Mahabad ᴴᴰ
 https://ncdn.telewebion.com/mahabad/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/SsGHwZjY/360ce0e3_29d2_408f_a24c_15953d21f608.png" group-title="Kurdish", Kurdi TV ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/SsGHwZjY/360ce0e3_29d2_408f_a24c_15953d21f608.png" group-title="A Kurdish VIP", Kurdi TV ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-tvradiof/tvradiof/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QMMHwz6r/a6fe1697_5a0c_450e_8b16_133fa24d5b91.png" group-title="Kurdish", Kurd Channel ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/QMMHwz6r/a6fe1697_5a0c_450e_8b16_133fa24d5b91.png" group-title="A Kurdish VIP", Kurd Channel ᴴᴰ
 https://iko-live.akamaized.net/kurdhd/master.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3wwdVqtL/45e230b3_d631_4b31_a637_b7cd84084a1e.png" group-title="Kurdish", Kordestan ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/3wwdVqtL/45e230b3_d631_4b31_a637_b7cd84084a1e.png" group-title="A Kurdish VIP", Kordestan ᴴᴰ
 https://lenz.splus.ir/PLTV/88888888/224/3221226647/1.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/nhpsYrBz/61faf893_e595_4cb3_8288_6ada8a3ae8bd.png" group-title="Kurdish", Kidco ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/nhpsYrBz/61faf893_e595_4cb3_8288_6ada8a3ae8bd.png" group-title="A Kurdish VIP", Kidco ᴴᴰ
 http://avrstream.com:1935/live/kidcohd/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sgsB9x7f/33393dcd_ab89_4470_9432_c1c26a252b38.png" group-title="Kurdish", Jin ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sgsB9x7f/33393dcd_ab89_4470_9432_c1c26a252b38.png" group-title="A Kurdish VIP", Jin ᴴᴰ
 https://live.jintv.org/medialive/jintv.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/fLv16HkV/0c6ed235_99af_442f_b0f5_46a4079b00b4.png" group-title="Kurdish", Hormzyar ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/fLv16HkV/0c6ed235_99af_442f_b0f5_46a4079b00b4.png" group-title="A Kurdish VIP", Hormzyar ᴴᴰ
 http://avrstream.com:1935/live/HormzyarHD/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sgmMnz4G/ff83844b_f4b0_405a_90c5_23bdf17461e9.png" group-title="Kurdish", Gewher ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sgmMnz4G/ff83844b_f4b0_405a_90c5_23bdf17461e9.png" group-title="A Kurdish VIP", Gewher ᴴᴰ
 http://142.132.133.190:1935/live/Gewher/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/y8jDfKyS/23b0f552_483c_45ac_ade3_5db9a79d1ce2.png" group-title="Kurdish", Gewher Sport ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/y8jDfKyS/23b0f552_483c_45ac_ade3_5db9a79d1ce2.png" group-title="A Kurdish VIP", Gewher Sport ᴴᴰ
 http://142.132.133.190:1935/live/Gewher_Sport/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/0QChLtr6/2804a683_5235_43ff_be69_4713e624a1fe.png" group-title="Kurdish", ESRA 1 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/0QChLtr6/2804a683_5235_43ff_be69_4713e624a1fe.png" group-title="A Kurdish VIP", ESRA 1 ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-ESRAHD/ESRAHD/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/LXVGryh6/3cd7286c_23f8_4bf5_8245_31518ade9e2e.png" group-title="Kurdish", ESRA 2 ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/LXVGryh6/3cd7286c_23f8_4bf5_8245_31518ade9e2e.png" group-title="A Kurdish VIP", ESRA 2 ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-esra2hd_kamalblbas/esra2hd_kamalblbas/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/85bxqysc/87b97a00_6398_4901_8882_fe9137a292d2.png" group-title="Kurdish", Esra Quran ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/85bxqysc/87b97a00_6398_4901_8882_fe9137a292d2.png" group-title="A Kurdish VIP", Esra Quran ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-esraquran_kamalblbas/esraquran_kamalblbas/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/NMxZWNL6/ace21474_71c7_4eb2_b23c_9547fb3eda42.png" group-title="Kurdish", Garyan Media ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/NMxZWNL6/ace21474_71c7_4eb2_b23c_9547fb3eda42.png" group-title="A Kurdish VIP", Garyan Media ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-halabja88garyan/halabja88garyan/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/6pc8HKfc/1713b90a_3368_4949_a419_33d8a00a2240.png" group-title="Kurdish", Duhok ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/6pc8HKfc/1713b90a_3368_4949_a419_33d8a00a2240.png" group-title="A Kurdish VIP", Duhok ᴴᴰ
 http://duhok.badinan.xyz:1935/live/DuhokTV/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="Kurdish", Alla ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="A Kurdish VIP", Alla ᴴᴰ
 http://avrstream.com:1935/live/ala-hd/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/4yNjZzh1/03664691_1c3c_404e_a2eb_28000ee5b0b7.png" group-title="Kurdish", Eman ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/4yNjZzh1/03664691_1c3c_404e_a2eb_28000ee5b0b7.png" group-title="A Kurdish VIP", Eman ᴴᴰ
 http://avrstream.com:1935/live/emantv/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYgs/212e8baa_bf3e_4511_92a3_feda8a6b1e9f.png" group-title="Kurdish", Animal Box ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/R00NyYgs/212e8baa_bf3e_4511_92a3_feda8a6b1e9f.png" group-title="A Kurdish VIP", Animal Box ᴴᴰ
 https://live20.bozztv.com/giatv/giatv-animalbox/animalbox/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/htsXCn1t/9fffd492_02d3_4c74_8ed4_68984303e125.png" group-title="Kurdish", Bangxwazen Badinan ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/htsXCn1t/9fffd492_02d3_4c74_8ed4_68984303e125.png" group-title="A Kurdish VIP", Bangxwazen Badinan ᴴᴰ
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/HawezHD.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/26xgPH3b/d61946d0_1185_439c_bb65_abc17c8704d6.png" group-title="Kurdish", Ashti ᴴᴰ
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/26xgPH3b/d61946d0_1185_439c_bb65_abc17c8704d6.png" group-title="A Kurdish VIP", Ashti ᴴᴰ
 http://avrstream.com:1935/live/AshtiTV/chunklist_w1836984692.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="Documentary", Nature Time ᴴᴰ
