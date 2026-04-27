@@ -45,7 +45,7 @@ http://bblserver.ddns.net:1935/stream/khakhd/hawezhd.m3u8
 http://109.123.245.192/Newline1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage." group-title="A Kurdish VIP", Newline 2 ᴴᴰ
-http://109.123.245.192/Newline2/index.m3u8
+http://109.71.252.138/Newline2/video.m3u8?token=yusfstaore@asdasdfadaaafffs
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.ng" group-title="A Kurdish VIP", Zed TV ᴴᴰ
 http://109.123.245.192/Zedtv/index.m3u8
