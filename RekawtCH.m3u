@@ -605,7 +605,7 @@ https://live20.bozztv.com/giatv/giatv-NRT-SPORT/NRT-SPORT/chunks.m3u8
 #EXTINF:-1,BeIN Sports Max
 #EXTVLCOPT:http-referrer=https://www.krdtv.online/
 https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FbdQbhi5FjCJcM4gmvvVssTov2eQGx2sK3WeMubXlcE8IJcXJnen0w33Hv5DeZJnrjHZln5rxBBnPFXX1cSUbzA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive
-https://www.krdtv.online/api/hls-proxy?url=https%3A%2F%2Fprod-fastly-us-west-2.video.pscp.tv%2FTranscoding%2Fv1%2Fhls%2FbdQbhi5FjCJcM4gmvvVssTov2eQGx2sK3WeMubXlcE8IJcXJnen0w33Hv5DeZJnrjHZln5rxBBnPFXX1cSUbzA%2Ftranscode%2Fus-west-2%2Fperiscope-replay-direct-prod-us-west-2-public%2FeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE%2Fdynamic_delta.m3u8%3Ftype%3Dlive&_HLS_skip=YES
+
 
 #EXTINF:-1 group-title="Bein Sports 4K" tvg-logo="https://safiafamily.com/uploads/family/Bein_sports/Bein_2.png" tvg-id="beinsports1.qa" tvg-name="BeIN Sports 2 4K" , AR: beIN 2 4k
 http://41.205.70.146/BEINSPORT2/index.m3u8
