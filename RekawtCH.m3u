@@ -465,7 +465,7 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_ar
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="News - هەواڵ", BBC World
-https://edge-1183-ch-gv.filmon.com/live/3268.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3aadb88473eba3de817f08aced85ff8ecd80f325023b71c98ecb20acdf2b846afc728daed7cfad6b39dd0128cfdee8f47d839b7e19b2d703c3e2434e399ae364249d576188ad951a1420e5f696aa5885697cdc0805e92211beee1a5dca7a9f27fbc75e8990f9fbc199727a9c162f812bfb8f52df4e5084e9b
+https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/bdQbhi5FjCJcM4gmvvVssTov2eQGx2sK3WeMubXlcE8IJcXJnen0w33Hv5DeZJnrjHZln5rxBBnPFXX1cSUbzA/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="News - هەواڵ", CGTN ᴴᴰ
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
