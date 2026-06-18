@@ -662,8 +662,8 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/ch9_720.m3u8
 http://hawez@142.132.133.190:1935/live/Sportchek-ld-HawezHD/HawezHD.m3u8?checkedby:hawezHD
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/3d1n.jpeg" group-title="SPORTS - وەرزش", AVA Sport ᴴᴰ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://104.160.15.138/kSy31p6u8XOFqhFSajNc6w9sulCqD63U9JyreSsQCnFTaTJD__ih__NlfKtI6c2D8CAeACLJFbp30vKR3hzLrVnCwLENp4Q5eRPD__hi__A__hi__kDUt3jMG5Dtv4ZkTl0gYBfAbSBcn0CBTtepkiq4zZAK4a7aaz09E5ujhpUJV41TP46Dfd7S40yhBYSVpf8Lbi1KqQA91X24QJAWguW4pr7keBN3vThQgV7wrcs6k__ih__6__ih__Sitg3IsaJLF5mlh3oBpzRskW6cgnDWEm1BDGlX4SDaxgKaAto8fh__hi__JH__ih__But__ih__N__hi__b1XUtS9dV3vlE=---/cache/AVA-Sport-HD-LB/m3u8/AVA-Sport-HD_tracks-v1a1_mono.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", FIFA Plus ᴴᴰ
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
