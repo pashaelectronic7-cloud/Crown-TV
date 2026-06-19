@@ -662,7 +662,7 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch9/ch9_720.m3u8
 http://hawez@142.132.133.190:1935/live/Sportchek-ld-HawezHD/HawezHD.m3u8?checkedby:hawezHD
 
 
-#EXTINF:-1 tvg-id="AVA Sport" tvg-name="AVA Sport HD" tvg-logo="https://raw.githubusercontent.com/Aras/logos/main/avasport.png" group-title="SPORTS - وەرزش",AVA Sport HD2
+#EXTINF:-1 tvg-id="AVA Sport" tvg-name="AVA Sport HD" tvg-logo="https://raw.githubusercontent.com/Aras/logos/main/avasport.png" group-title="SPORTS - وەرزش",AVA Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 http://104.160.15.138/kSy31p6u8XOFqhFSajNc6w9sulCqD63U9JyreSsQCnFTaTJD__ih__NlfKtI6c2D8CAeACLJFbp30vKR3hzLrVnCwLENp4Q5eRPD__hi__A__hi__kDUt3jMG5Dtv4ZkTl0gYBfAbSBcn0CBTtepkiq4zZAK4a7aaz09E5ujhpUJV41TP46Dfd7S40yhBYSVpf8Lbi1KqQA91X24QJAWguW4pr7keBN3vThQgV7wrcs6k__ih__6__ih__Sitg3IsaJLF5mlh3oBpzRskW6cgnDWEm1BDGlX4SDaxgKaAto8fh__hi__JH__ih__But__ih__N__hi__b1XUtS9dV3vlE=---/cache/AVA-Sport-HD-LB/m3u8/AVA-Sport-HD_tracks-v1a1_mono.m3u8
 
@@ -670,7 +670,7 @@ http://104.160.15.138/kSy31p6u8XOFqhFSajNc6w9sulCqD63U9JyreSsQCnFTaTJD__ih__NlfK
 http://104.160.15.52/lbengine/+ph/myMw3h1dWwBNkFS__hi__J5L42v__ih__G41MvV58PeHdO5aB__ih__K1QzO5__ih__ILGv6bIhzYS4__hi__Yn4cHEY__ih__MONoewEGyLR0O6MIlpCZQLPah8wmzHpll__ih__JVhEbpAEEbLp2kmJigoq2f589HaBYRF4A6zOPJn1U__hi__4rTS2j6Zc167UGB__ih__2K5Wc6abbIlSfhN5orISCq__hi__8c4aoCugqYRqcRGAY__ih__6q5Ce__ih__9KCQvZwy__hi__uTPXu1mGyBWZcZ7U9CmkWSgf__ih__s__hi__XB3ofjUEsJKRmy4zssB2BceEcCm2N3RUEBJomDvUlsmkJDMhcuigr7g3w=---/cache/AVA-Sport-HD-LB/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", Persiana Sport 1 ᴴᴰ
-https://gg.hls2.xyz/live2/irib-varzesh/playlist.m3u8
+http://104.160.15.52/lbengine/+ph/myMw3h1dWwBNkFS__hi__J5L42v__ih__G41MvV58PeHdO5aB__ih__K1QzO5__ih__ILGv6bIhzYS4__hi__Yn4cHEY__ih__MONoewEGyLR0O6MIlpCZQLPah8wmzHpll__ih__JVhEbpAEEbLp2kmJigoq2f589HaBYRF4A6zOPJn1U__hi__4rTS2j6Zc167UGB__ih__2K5Wc6abbIlSfhN5orISCq__hi__8c4aoCugqYRqcRGAY__ih__6q5Ce__ih__9KCQvZwy__hi__uTPXu1mGyBWZcZ7U9CmkWSgf__ih__s__hi__XB3ofjUEsJKRmy4zssB2BceEcCm2N3RUEBJomDvUlsmkJDMhcuigr7g3w=---/cache/AVA-Sport-HD-LB/master.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.imgur.com/kfU3d1n.jpeg" group-title="SPORTS - وەرزش", Persiana Sport 2 ᴴᴰ
 https://pepsi.abntv.live/hls/4spstream.m3u8
